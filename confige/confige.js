@@ -1,5 +1,6 @@
 module.exports={
-    mongoUrl:"mongodb://127.0.0.1:27017/srm"
+    mongoUrl:'mongodb+srv://alekseit422:Saveliy0808@crm.meppcff.mongodb.net/?retryWrites=true&w=majority'
+    // mongoUrl:"mongodb://127.0.0.1:27017/srm"
 }
 // const MongoClient = require("mongodb").MongoClient;
  
